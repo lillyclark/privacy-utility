@@ -2,9 +2,9 @@
 2 layers with 8 units in the adversary
 2 layers with 4 units in the map model, trained for 200 epochs
 utility distortion penalty of 5
-minimum acceptable distortion of 0.00
+minimum acceptable distortion of 0.0001
 train on 100 samples
-try 100 iterations
+try 100 iterations or stop on convergence
 
 Iterations: 0	 Adversary loss: 1.5308	 Privatizer loss: 12.1056
 Iterations: 1	 Adversary loss: 1.4830	 Privatizer loss: -0.0253
